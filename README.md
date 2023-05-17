@@ -59,9 +59,11 @@ s.send("acknowledgement recived from the server".encode())
 
 
 
-OUTPUT:
-![](1.png)
-![](2.png)
+## OUTPUT:
+### CLIENT:
+![](1c.png)
+### SERVER:
+![](1s.png)
 
 
 
