@@ -28,8 +28,8 @@ server using TCPSockets
 7. Stop.
 
 
-PROGRAM :
-## Client.py
+## PROGRAM :
+### Client.py
 ```
 import socket
 s=socket.socket()
@@ -44,7 +44,7 @@ while True:
  except KeyError:
  c.send("Not Found".encode()) 
  ```
- ## Server.py
+ ### Server.py
  ```
 import socket
 s=socket.socket()
